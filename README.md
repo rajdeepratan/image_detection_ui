@@ -1,2 +1,2 @@
-# image_detection_ui
+# Image Detection UI
 An image object detection system with Tensorflow-js with the pre-trained model.
