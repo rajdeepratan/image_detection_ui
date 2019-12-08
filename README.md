@@ -3,7 +3,7 @@ An image object detection system with Tensorflow-js with the pre-trained model.
 
 ## Requirements
 
-- Node and npm or yarn
+- Node and npm
 
 ## Installation
 
@@ -12,7 +12,7 @@ An image object detection system with Tensorflow-js with the pre-trained model.
 
 ##  How to get started!
 
- - run `npm start` or `yarn start` from the home directory of both `(frontend and backend)`.
+ - run `npm start` from the home directory.
 
 
 
